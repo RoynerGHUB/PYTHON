@@ -14,7 +14,6 @@ print(minimo)
 #Invertir palabras de una cadena dada.
 
 
-def invertir_cadena(str):
 
 
 
@@ -23,7 +22,3 @@ def invertir_cadena(str):
 
 
 
-str = "codigo de practica de prueba de geeks"
-invertir_cadena(str)
-
-     
